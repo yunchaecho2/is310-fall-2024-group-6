@@ -12,5 +12,6 @@ _Please note this list of members is tentative and subject to change as students
 - Cindy L.
 - Gloria L.
 - Lucas W.
+- Yunchae (Sophia) C.
 
 
