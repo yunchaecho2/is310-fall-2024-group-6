@@ -88,7 +88,12 @@ References: Any relevant documents or resources.
 
    In the area of Literature and Texts, digital objects are created by scanning physical materials like books, manuscripts, and periodicals to produce high-quality images. These are processed using OCR to convert the images into machine-readable text. The digitization process includes manual corrections, metadata tagging (e.g., author, themes), and ensuring accessibility. These steps preserve texts for research while making them searchable and analyzable, essential for studying literature in the digital age.
 
-3. Kahle repeatedly made reference to the Library of Alexandria in his article. What are some historical equivalents to digital objects in your area of focus? How do these historical objects compare to their digital counterparts? 
+3. Kahle repeatedly made reference to the Library of Alexandria in his article. What are some historical equivalents to digital objects in your area of focus? How do these historical objects compare to their digital counterparts?
+
+   In the article, Kahle compares the ancient Library of Alexandria, whose goal was to gather and preserve the knowledge of a world for universal access, to the modern-day effort of digitization of books, manuscripts, and other literary works. 
+In the past, knowledge was stored in tangible forms like manuscripts and scrolls, which were frequently accessible in certain places like libraries or museums and were prone to loss or destruction over time. Due to its fragility, there were few options for preservation and the only method of finding information was by hand reading it. While digital texts overcome these constraints and provide universal access to knowledge from any location with an internet connection, the ability to create multiple digital copies provides better preservation and reduces the dangers associated with technological failure. 
+Digital resources, in contrast with printed texts, allow quick keyword searches, which improves research efficiency and changes the way we engage with literary works. This move to digital media not only makes literary texts more accessible but also improves their durability and functionality, which eventually changes how we save, exchange, and use knowledge.
+
 
 4. Relatedly, are there examples of born-digital materials for your area of focus? How do these materials compare to digitized objects? For those unfamiliar, born-digital materials are those that were created digitally and never existed in analog or physical form (think most social media, for example). (Francis)
 
@@ -104,6 +109,8 @@ Another goal they have is too encourage the creation and distribution of eBooks!
 One of the newest digital libraries is the Digital Public Library of America (DPLA), launched in 2013. , including images, videos and audio recordings. DPLA's modern interface, advanced search tools, and integration of collections from different institutions provide a more interactive and comprehensive experience than older, text-centric platforms.
 
 7. Are there any examples of your digital object that have gone viral? How did this happen and what impact did it have on the object or the digital library/archive that hosted it?
+
+   One well-known viral digital object is that concerning the women of NASA's Hidden Figures. When the movie Hidden Figures came out, NASA's digital archive of images and documents showing black female mathematicians who helped the US space program became viral. Critical success of this film motivated social media users and journalists to go in search of real-world proof of these contributions, thus driving traffic and wide sharing of the archival content. The event demonstrated how interest on the part of the public in NASA's archival effort underlined themes missing in science and technology, adding value to these records.
 
 8. Can you find any examples of free vs. proprietary digital libraries or archives for your area of focus? How do these resources differ in terms of access? (Lucas)
 
