@@ -106,7 +106,7 @@ Another goal they have is too encourage the creation and distribution of eBooks!
 
 6. Conversely, what is the newest digital library or archive you can find that relates to your area of focus? How does this resource compare to older digital libraries or archives?(Cindy)
 
-One of the newest digital libraries is the Digital Public Library of America (DPLA), launched in 2013. , including images, videos and audio recordings. DPLA's modern interface, advanced search tools, and integration of collections from different institutions provide a more interactive and comprehensive experience than older, text-centric platforms.
+   One of the newest digital libraries is the Digital Public Library of America (DPLA), launched in 2013. , including images, videos and audio recordings. DPLA's modern interface, advanced search tools, and integration of collections from different institutions provide a more interactive and comprehensive experience than older, text-centric platforms.
 
 7. Are there any examples of your digital object that have gone viral? How did this happen and what impact did it have on the object or the digital library/archive that hosted it?
 
