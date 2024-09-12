@@ -82,11 +82,21 @@ References: Any relevant documents or resources.
 
 1. What might be considered a digital object or digital representation for your area of focus? You can have multiple examples, but you should explain why you consider it relating to your area of focus (this can be short though).
 
-   In the area of Literature and Texts, digital objects include e-books, online articles, digital archives, and audiobooks, all of which transform traditional print works into accessible and shareable formats. E-books and online journals preserve textual integrity while offering global access, while digital archives ensure the preservation of rare or historical documents. Audiobooks and hypertexts introduce new ways of experiencing literature, expanding the reach and interactivity of literary content.
+   In the area of Children's Literature, digital objects or representations could include several types of media:
+
+Digitized e-books: Children's books are scanned and converted into e-books, allowing interactive or multimedia elements to be added, such as audio narration or animated illustrations.
+
+Audiobooks: Narrated versions of children's books, often including sound effects or music, making stories accessible to young readers.
+
+Interactive apps: Digital platforms or apps where children can engage with stories through interactive elements like games or touch-sensitive illustrations.
+
+Digital archives: Collections of classic or rare children's literature available online for access and research.
+International Children’s Digital Library: http://www.childrenslibrary.org/
+UIUC Library: https://www.library.illinois.edu/s-collection/research/digitalcollections/
 
 2. How are digital objects and representations created for your area of focus? What are the processes involved in digitizing these objects? In the African American Periodical Poetry (1900-1928) dataset, we learned about the process of digitizing periodicals and Kahle also mentioned a process called OCR, Optical Character Recognition, for extracting text from digitized print materials. What are some of the digitization processes for your area of focus?
 
-   In the area of Literature and Texts, digital objects are created by scanning physical materials like books, manuscripts, and periodicals to produce high-quality images. These are processed using OCR to convert the images into machine-readable text. The digitization process includes manual corrections, metadata tagging (e.g., author, themes), and ensuring accessibility. These steps preserve texts for research while making them searchable and analyzable, essential for studying literature in the digital age.
+   In Children's Literature, digital objects are created through processes such as scanning physical books to create high-resolution digital copies, often followed by OCR (Optical Character Recognition) to convert text into machine-readable formats. Additionally, interactive features like animations or audio can be integrated into digital versions. Metadata is added for categorization, making them searchable and accessible. Projects might also involve manual editing and tagging to ensure accuracy.
 
 3. Kahle repeatedly made reference to the Library of Alexandria in his article. What are some historical equivalents to digital objects in your area of focus? How do these historical objects compare to their digital counterparts?
 
@@ -98,11 +108,15 @@ Digital resources, in contrast with printed texts, allow quick keyword searches,
 4. Relatedly, are there examples of born-digital materials for your area of focus? How do these materials compare to digitized objects? For those unfamiliar, born-digital materials are those that were created digitally and never existed in analog or physical form (think most social media, for example).
 
    Looking at different literatures and texts that are born-digital materials, we can look at various texts incorporated in digital-based news, user-generated content, and even digital storytelling. An example of this that comes to mind would be the Oregon Trail. The Oregon Trail is a text based video game that involves decision making and storytelling. You live your life as a 19th century pioneer looking to cross the trail. When it comes to user-generated content, we can also see a lot of digital text based forums. An example of this could be Reddit where users provide text looking to seek responses of other people.
+   With the theme of children's literature in digital born materials we can often see a lot of this come up in online applications. Things such as apps that provide interactive storytelling elements or even apps that allow the user to create their own characters and use their creativity are things worth mentioning. 
+
+For example, the idea of the application “Living Books” by Broderbund which is an early example of this. This was created in the 1990s where it provided clickable animations and interactive read along adventures aimed for children aged 3-9. This provided a lot of the foundation for the examples you see today.
 
 5. What is the oldest digital library or archive you can find that relates to your area of focus? How has this resource been maintained and updated over time? You may also include examples that are no longer maintained or have been abandoned. 
 
-   The oldest digital library is Project Gutenberg, Project Gutenberg was founded in 1971 by the famous American author Micheal S Heart. Project Gutenberg’s goal is to digitize and archive cultural works. Examples are: literature, poetry, music, film, dance, painting, and sculptures. 
-Another goal they have is too encourage the creation and distribution of eBooks! Most items in Project Gutenberg are full texts of public domain books. Examples are, Alice In Wonderland, A Christmas Carol, Sherlock Holmes and many more. This library tries to make everything as free as possible for us readers. Most of the books are in english but there are also non english books available as well. You can also read your stories in these certain documents, HTML, PDF, EPUB, MOBI, and Plucker. Overall Project has been updated over time with their genres of books,languages. As of 2015 Project Gutenberg has added over 50,000 books to their collection and is growing more ever. Currently as of 2024 Project Gutenberg has 70,000 books in their collection.
+   One of the oldest archives that includes fantasy children's literature is Project Gutenberg, founded in 1971. It offers thousands of classic books, including children’s fantasy, such as early works by authors like Lewis Carroll and L. Frank Baum.
+Project Gutenberg has been maintained and updated by volunteers over the years, focusing primarily on digitizing public domain texts. While it lacks modern features like interactive elements or a child-friendly interface, it has been updated to include more formats, such as ePub, Kindle, and plain text, for greater accessibility. However, its basic user interface and design have not evolved significantly, remaining more functional than visually engaging, which limits its appeal to younger readers.
+Some earlier digital projects related to children's literature, such as The Rosetta Project, are no longer actively maintained, having been abandoned due to lack of funding or technological advancements, highlighting the challenge of preserving digital archives over time.
 
 6. Conversely, what is the newest digital library or archive you can find that relates to your area of focus? How does this resource compare to older digital libraries or archives?
 
@@ -110,7 +124,7 @@ Another goal they have is too encourage the creation and distribution of eBooks!
 
 7. Are there any examples of your digital object that have gone viral? How did this happen and what impact did it have on the object or the digital library/archive that hosted it?
 
-   One well-known viral digital object is that concerning the women of NASA's Hidden Figures. When the movie Hidden Figures came out, NASA's digital archive of images and documents showing black female mathematicians who helped the US space program became viral. Critical success of this film motivated social media users and journalists to go in search of real-world proof of these contributions, thus driving traffic and wide sharing of the archival content. The event demonstrated how interest on the part of the public in NASA's archival effort underlined themes missing in science and technology, adding value to these records.
+   One example of a well-known case of a digital object in Children's Literature is "Charlie and the Chocolate Factory" written by Roald Dahl. Ever since Charlie and the Chocolate Factory was published, it has been consistently found on the list of top favorites in the category of children's literature. Besides, after the movie release, this book gained even more fame among people of all ages. For example, it was highlighted that millions of digital copies of the books were downloaded and spread via social media on its 50th anniversary. Certain scenes, like finding the Golden Ticket from the movie, have been used around online as memes and GIFs. This also increased the popularity of the printed and digital copy of Charlie and the Chocolate Factory and gained more attention from people through digital platforms and e-books libraries. Charlie and the Chocolate Factory further increased its popularity through digital time videos on many platforms: such as on YouTube. This has created, globally, more access for a new generation of readers.
 
 8. Can you find any examples of free vs. proprietary digital libraries or archives for your area of focus? How do these resources differ in terms of access? 
 
