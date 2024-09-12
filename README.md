@@ -78,7 +78,7 @@ Contact Information: Details for all team members.
 References: Any relevant documents or resources.
 
 
-## Area of Focus: Literature and Texts
+## Area of Focus: The fantasy genre of children’s literature
 
 1. What might be considered a digital object or digital representation for your area of focus? You can have multiple examples, but you should explain why you consider it relating to your area of focus (this can be short though).
 
