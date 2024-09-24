@@ -8,7 +8,6 @@ These members were selected because of your broad interests as film buffs and so
 _Please note this list of members is tentative and subject to change as students join or leave the class in the next week or so._
 
 - Francis A.
-- Diya C.
 - Cindy L.
 - Gloria L.
 - Lucas W.
