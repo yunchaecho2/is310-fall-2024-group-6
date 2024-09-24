@@ -15,7 +15,7 @@ Interviews/Surveys: If possible, include insights from educators, parents, or ch
 
 ## Materials
 
-**Division of Labor**
+## Division of Labor 
 To ensure smooth progress, we will assign roles based on group members' strengths and interests, rotating the Project Manager role to maintain balance. Here is the proposed division of labor:
 
 Project Manager (Rotating): Oversees project progress, sets deadlines, and coordinates meetings. Ensures task completion and handles any issues that arise during each phase.
