@@ -32,5 +32,45 @@ Report Writer/Editor (Yunchae (Sophia) C.): Compiles the findings and ensures th
 
 Each member will work collaboratively to support one another's tasks, ensuring that tasks dependent on each other (e.g., data processing and analysis) are completed in a timely manner.
 
+## [Timeline]
 
-## Timeline 
+***Phase 0: Initial Project & Semester Planning (9/24)***
+Plan out a semester-long project. 
+Decide on the research topic, area of focus, materials, division of labor and timeline for the project.  
+
+***Phase 1: Literature Review and Data Collection (9/25 ~ 10/9)***
+- Literature Review
+Read and analyze scholarly sources about children’s literature topics. 
+Scholarly sources include class assigned readings and credible scholarly journals. 
+Document key findings on group github. 
+- Data Collection
+Collect historical children’s literature data 
+Collect contemporary children’s literature data from Kaggle 
+
+***Phase 2: Mid-Semester Dataset and Documentation Update (10/10)***
+Submit the 1st version of dataset and documentation. 
+1. Preliminary data collection
+2. Initial findings
+3. Issues encountered during the process 
+
+***Phase 3: Descriptive Analysis and Data Preparation (10/11- 10/23)***
+- Descriptive Analysis: Create statistical analysis using word frequency, sentence length, and publication year. Create visualizations such as bar charts or graphs. 
+- Data Cleaning and Organization 
+
+***Phase 4:  Experimenting with Datasets Update (11/14)***
+- Choose computational method: possible choice of computational methods are keyword and frequency analysis and sentiment analysis. 
+- Apply the chosen method to the dataset. 
+
+***Phase 5: Advanced Analysis and Visualization (11/15-12/1)***
+- Continue the comparison of various themes, moral lessons, and cultural representation of literature. Create visualization demonstrating major findings using charts, graphs, and other methods. 
+
+***Phase 6: Demo Data Day (12/10)*** 
+- Present the current project progress (key findings, visualizations, and recent version of dataset) 
+
+***Phase 7: Final Report Drafting and Review (12/2-12/13)*** 
+- Combine every data into a single report, literature review and data analysis. Include data visualizations and illustrate the research process. 
+- Peer review by team members and revise based on give feedback. 
+
+***Phase 8: Final Project Submission (12/16)*** 
+- Submit the final project report, dataset, and documentation on GitHub group repository. 
+ 
