@@ -15,6 +15,16 @@ Interviews/Surveys: If possible, include insights from educators, parents, or ch
 
 ## Materials
 
+## List of Materials
+-	The Historical Children’s Literature Collection
+-	The Children Stories Text Corpus
+-	Chat GPT
+
+### Material Analysis
+The materials that we need to complete our project involve two datasets and generative AI. The two datasets are one from the University of Washington and another from Kaggle’s Children’s Stories Text Corpus. These datasets align with our topic by giving us a historical dataset and a contemporary dataset. The historical dataset (University of Washington) reflects the biases of the time. This can include biases such as race, gender, and even representation of classes. This dataset can illustrate how only certain classes are perceived and represented. The contemporary dataset shows us specifically the text in children’s literature. This omits things such as illustrations as well as visual and physical aspects of children's literature which are crucial to the storytelling of these texts. When we want to analyze the data of the datasets we are given, using the AI Chat GPT will allow us to see how artificial intelligence can examine and analyze these datasets. This LLM will allow us to note what AI will notice or not notice in its analysis.
+
+When working with the materials to complete our project, the materials that were listed will solely be digital. This means that we will look at different types of children’s literature from a digital format instead of a physical format. This will be data that can either be publicly found from databases, or data that is scraped from existing children’s literature books onto a dataset. From getting this from a digital format, the challenges that I can see arising from this would be finding a good enough dataset. To match the criteria, we would hope that it contained holistic data, meaning that it will have not just the text of the books but also the illustration and physical nuances of it. This is something that we hope to find although it might be challenging to find a dataset that practiced this kind of data scraping. Another challenge that we can see from this is scraping the data ourselves. We would first have to accumulate the data and then find a way to upload it. This could take a while depending on how long we spend on this, but this is always an option that is available. Regardless, proper sourcing of datasets are what we plan on doing with acquiring these materials that can give us the data that we need for our analysis.
+
 ## Division of Labor 
 To ensure smooth progress, we will assign roles based on group members' strengths and interests, rotating the Project Manager role to maintain balance. Here is the proposed division of labor:
 
